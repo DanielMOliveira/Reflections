@@ -1,0 +1,13 @@
+	• Conseguir comparar de formas faceis a diferença entre arquivos ajuda a identificar o que parou de funcionar
+	• Como ter facil acesso a todo o historico de um arquivo pode torna-lo um progrmaador mais eficiente no longo prazo?
+		○ O historico permite ver onde melhoramos, onde erramos, o que podemos fazer para melhorar
+	• Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+		○ Pros: Liberdade, permite configurar um fluxo. Facil de voltar em caso de erro. Facil mudança de prioridade
+		○ Contras: Depende do desenvolvedor. Não há uma politica forte sobre o que fazer.
+	• Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+		○ Sistema de controle de codigo permitem alterações em conjunto. Sistema de controle de documento focam em soluções idenpendentes.
+	• Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+		○ Git log mostra a vida do Repositorio. Git diff permite comparar uma alteraçao com outra
+	• De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+		○ Historico de problemas, correção facilitada
+	Now that you have your workspace set up, what do you want to try using Git for?
