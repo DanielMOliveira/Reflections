@@ -1,3 +1,8 @@
 O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 Carrega os arquivos de configurações do git.
 permite que o diretorio seja um futuro repositorio
+
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+staging area é local. repositorio é a confirmação das alteraçoes
+não sei ainda qual valor
