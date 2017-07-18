@@ -9,3 +9,7 @@ não sei ainda qual valor
 
 Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
 Sempre que houver mudança. testes, ajustes. Criação de backups
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+Os diagramas permitem a correta visualização da arvore de commits e como um branch se relaciona com outro
+
